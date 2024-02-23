@@ -1,0 +1,24 @@
+section {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  color: rgba(78, 48, 48, 0.915);
+  background-color: rgb(113, 113, 181);
+  margin: auto;
+  padding: 50px;
+  border: 20px double pink;
+  border-radius: 50px;
+}
+body {
+  background-color: antiquewhite;
+  border: 40px double rgb(176, 102, 115)
+}
+div > img {
+  display: block;
+  border: 40px pink;
+  height: 300;
+  width: auto;
+  border-radius: 10px;
+  margin: auto;
+
+}
